@@ -2,6 +2,7 @@ public class MementoManage {
 
     public Memento memento;
 
+
     public Memento getMemento() {
         return memento;
     }
